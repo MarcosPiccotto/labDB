@@ -1,0 +1,1 @@
+ sudo docker exec -i mysql-labs mysql -uroot -padmin world < world-data.sql
